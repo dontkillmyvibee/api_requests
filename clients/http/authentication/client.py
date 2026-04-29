@@ -11,7 +11,6 @@ class AuthenticationClient:
     """
     Клиент для работы с /api/v1/authentication
     """
-
     def __init__(self, client: HTTPClient):
         self._client = client
 
