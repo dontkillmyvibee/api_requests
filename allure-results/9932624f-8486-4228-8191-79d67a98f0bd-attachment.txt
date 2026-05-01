@@ -1,0 +1,23 @@
+[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+[32mINFO    [0m COURSES_ASSERTIONS:courses.py:64 Check get courses response
+[32mINFO    [0m BASE_ASSERTIONS:base.py:87 Check that length of "courses" equals to 1
+[32mINFO    [0m COURSES_ASSERTIONS:courses.py:47 Check course
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "id" equals to c7b516b0-5bb4-48c1-8aa6-bcbbcd59de99
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "title" equals to View remember garden experience daughter.
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 91
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 4
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "description" equals to Church real generation race. Whole set team skin old authority write throw.
+Book space about final beyond manager put. New Republican once tell executive.
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 4 weeks
+[32mINFO    [0m FILES_ASSERTIONS:files.py:47 Check file
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "id" equals to fd64464e-3044-469e-8fcc-84167b7ba085
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "url" equals to http://localhost:8000/static/tests/5d487698-1707-416d-98af-269be0fd5d9f.png
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "filename" equals to 5d487698-1707-416d-98af-269be0fd5d9f.png
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "directory" equals to tests
+[32mINFO    [0m USER_ASSERTIONS:users.py:43 Check user
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "email" equals to davenportjose@example.org
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "last_name" equals to Arnold
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "first_name" equals to Donna
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "middle_name" equals to Robert
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "id" equals to 70621dbf-0fcb-4e5d-8458-edf76c88d3f4
+[32mINFO    [0m SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

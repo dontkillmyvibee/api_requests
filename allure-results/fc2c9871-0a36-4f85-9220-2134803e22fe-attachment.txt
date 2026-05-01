@@ -1,0 +1,13 @@
+[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+[32mINFO    [0m EXERCISES_ASSERTIONS:exercises.py:76 Check get exercise response
+[32mINFO    [0m EXERCISES_ASSERTIONS:exercises.py:50 Check exercise
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "id" equals to 7e7e9cce-c6f5-4fe9-af33-fbab8c7ad560
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "title" equals to Wide identify though house wear.
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to 1760685c-0729-4247-9fe4-a999344ec970
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 56
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 2
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 30
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "description" equals to Who prove kitchen role make two save. Fact practice newspaper thousand husband. Car news ready production early power movie sit.
+Effect effort data old. Put card history tend himself us.
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 7 weeks
+[32mINFO    [0m SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

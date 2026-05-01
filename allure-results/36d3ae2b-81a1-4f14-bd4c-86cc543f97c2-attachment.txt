@@ -1,0 +1,11 @@
+[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 422
+[32mINFO    [0m FILES_ASSERTIONS:files.py:159 Check get file with incorrect file id response
+[32mINFO    [0m ERRORS_ASSERTIONS:errors.py:45 Check validation error response
+[32mINFO    [0m BASE_ASSERTIONS:base.py:87 Check that length of "details" equals to 1
+[32mINFO    [0m ERRORS_ASSERTIONS:errors.py:21 Check validation error
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "type" equals to uuid_parsing
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "input" equals to incorrect-file-id
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "context" equals to {'error': 'invalid character: expected an optional prefix of `urn:uuid:` followed by [0-9a-fA-F-], found `i` at 1'}
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "message" equals to Input should be a valid UUID, invalid character: expected an optional prefix of `urn:uuid:` followed by [0-9a-fA-F-], found `i` at 1
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "location" equals to ['path', 'file_id']
+[32mINFO    [0m SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

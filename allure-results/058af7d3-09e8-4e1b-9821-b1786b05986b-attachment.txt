@@ -1,0 +1,11 @@
+[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+[32mINFO    [0m EXERCISES_ASSERTIONS:exercises.py:28 Check create exercise response
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "title" equals to Though able throughout PM measure kind former it.
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to 42405916-d1af-44e5-bdde-6a5db7f9b105
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 86
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 8
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 100
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "description" equals to Development tonight side maybe. Base mean budget box successful.
+Stand fire leave. Everyone center event stock bed decade. Writer physical marriage next general still.
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 5 weeks
+[32mINFO    [0m SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

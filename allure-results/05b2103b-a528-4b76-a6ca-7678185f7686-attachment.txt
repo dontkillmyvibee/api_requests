@@ -1,0 +1,6 @@
+[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 404
+[32mINFO    [0m FILES_ASSERTIONS:files.py:128 Check file not found response
+[32mINFO    [0m ERRORS_ASSERTIONS:errors.py:67 Check internal error response
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "details" equals to File not found
+[32mINFO    [0m SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

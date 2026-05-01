@@ -1,0 +1,11 @@
+[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 422
+[32mINFO    [0m FILES_ASSERTIONS:files.py:121 Check create file with empty directory response
+[32mINFO    [0m ERRORS_ASSERTIONS:errors.py:45 Check validation error response
+[32mINFO    [0m BASE_ASSERTIONS:base.py:87 Check that length of "details" equals to 1
+[32mINFO    [0m ERRORS_ASSERTIONS:errors.py:21 Check validation error
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "type" equals to string_too_short
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "input" equals to 
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "context" equals to {'min_length': 1}
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "message" equals to String should have at least 1 character
+[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "location" equals to ['body', 'directory']
+[32mINFO    [0m SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema
