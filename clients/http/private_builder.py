@@ -6,6 +6,7 @@ from pydantic import BaseModel
 
 from clients.http.authentication.client import get_authentication_client
 from clients.http.authentication.schema import LoginRequestSchema
+from config import settings
 
 
 class AuthenticationUserSchema(BaseModel, frozen=True):
@@ -35,7 +36,7 @@ def get_private_http_client(user: AuthenticationUserSchema) -> HTTPClient:
     login_response = authentication_client.login(login_request)
 
     return build_http_client(
-        base_url="http://localhost:8000",
-        timeout=30,
+        base_url=settings.http_client.client_url,
+        timeout=settings.http_client.timeout,
         headers={"Authorization": f"Bearer {login_response.token.access_token}"}
     )

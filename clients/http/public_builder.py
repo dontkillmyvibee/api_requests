@@ -1,5 +1,6 @@
 from clients.http.builder import build_http_client
 from clients.http.client import HTTPClient
+from config import settings
 
 
 def get_public_http_client() -> HTTPClient:
@@ -16,6 +17,6 @@ def get_public_http_client() -> HTTPClient:
 
     """
     return build_http_client(
-        base_url="http://localhost:8000",
-        timeout=30,
+        base_url=settings.http_client.client_url,
+        timeout=settings.http_client.timeout,
     )
