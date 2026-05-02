@@ -1,0 +1,6 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 404
+INFO     EXERCISES_ASSERTIONS:exercises.py:115 Check exercise not found response
+INFO     ERRORS_ASSERTIONS:errors.py:67 Check internal error response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "details" equals to Exercise not found
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

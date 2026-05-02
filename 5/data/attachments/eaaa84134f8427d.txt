@@ -1,0 +1,4 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 401
+INFO     AUTHENTICATION_ASSERTIONS:authentication.py:30 Check login with invalid email and password
+INFO     ERRORS_ASSERTIONS:errors.py:67 Check internal error response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "details" equals to Invalid credentials

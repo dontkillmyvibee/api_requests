@@ -1,0 +1,12 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     EXERCISES_ASSERTIONS:exercises.py:28 Check create exercise response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Likely quality detail official picture.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to 1e352983-d429-4881-a7c2-954e379e76a7
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 89
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 3
+INFO     BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 88
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to History base interest everybody always.
+Happen pick by. Its ok rich positive dinner.
+Wrong avoid national claim season citizen easy. Walk trouble condition sit source lot. Bank back worker through.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 7 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

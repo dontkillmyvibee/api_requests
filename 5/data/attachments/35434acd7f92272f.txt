@@ -1,0 +1,9 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:27 Check update course response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Different garden who general.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 71
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 22
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to By stay wide write business term weight. Yet program recognize different. Together help language recently.
+Computer build picture subject financial. Industry ago nature but born.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 1 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

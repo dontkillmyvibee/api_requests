@@ -1,0 +1,12 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     EXERCISES_ASSERTIONS:exercises.py:76 Check get exercise response
+INFO     EXERCISES_ASSERTIONS:exercises.py:50 Check exercise
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 1d8347dc-e1b3-4f0a-b6f3-15a670892abc
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Break per mother know just.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to ab040e8e-18e9-4630-9639-4f00b83f58e3
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 86
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 2
+INFO     BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 57
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Event start marriage between conference. Religious choice be third piece. Act white then skin exactly allow.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 5 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

@@ -1,0 +1,10 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:88 Check create course response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Receive recently for person effect degree responsibility money.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 63
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 28
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Same check service international of one radio. Each media somebody action item rich. Evening physical information front opportunity nearly main eye. Fire case lot play physical own suddenly.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 9 weeks
+INFO     BASE_ASSERTIONS:base.py:45 Check that "preview_file_id" equals to ffbdb286-4bab-436a-a2da-15e5999fed5b
+INFO     BASE_ASSERTIONS:base.py:45 Check that "created_by_user_id" equals to 83a9dd98-d0ca-4ced-8f63-07910d1f5d17
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema
