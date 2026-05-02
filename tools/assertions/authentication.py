@@ -1,7 +1,9 @@
 import allure
 
 from clients.http.authentication.schema import LoginResponseSchema
+from clients.http.error_schema import InternalErrorResponseSchema
 from tools.assertions.base import assert_equal, assert_is_true
+from tools.assertions.errors import assert_internal_error_response
 from tools.logger import get_logger
 
 logger = get_logger("AUTHENTICATION_ASSERTIONS")
@@ -22,3 +24,9 @@ def assert_login_response(response: LoginResponseSchema):
     assert_equal(response.token.token_type, "bearer", "token_type")
     assert_is_true(response.token.access_token, "access_token")
     assert_is_true(response.token.refresh_token, "refresh_token")
+
+@allure.step("Check login with invalid email and password")
+def assert_login_with_invalid_email_and_password(actual: InternalErrorResponseSchema):
+    logger.info("Check login with invalid email and password")
+    expected = InternalErrorResponseSchema(details="Invalid credentials")
+    assert_internal_error_response(actual, expected)
