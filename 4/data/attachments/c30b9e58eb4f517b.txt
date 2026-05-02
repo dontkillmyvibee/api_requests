@@ -1,0 +1,13 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     EXERCISES_ASSERTIONS:exercises.py:76 Check get exercise response
+INFO     EXERCISES_ASSERTIONS:exercises.py:50 Check exercise
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 6677afad-1e44-4b8c-b673-7adb6fee3cea
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Return early full central picture relationship organization them.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to 11d6b233-a262-4951-ae61-e40234ce4c57
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 79
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 23
+INFO     BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 68
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Discover far herself term else. Serious forward task continue certainly almost term.
+Shake letter entire tonight. Represent turn minute support which happy which. Hold range north think tree.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 8 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

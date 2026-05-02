@@ -1,0 +1,10 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:88 Check create course response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Pm citizen kind cold.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 83
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 2
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Eat participant environment figure. Material any sort worker close adult. Animal white business because never manage nature American.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 3 weeks
+INFO     BASE_ASSERTIONS:base.py:45 Check that "preview_file_id" equals to 5e13bb1d-3c64-43d1-b43f-5f2621e0543e
+INFO     BASE_ASSERTIONS:base.py:45 Check that "created_by_user_id" equals to 0e396e59-cfe6-4ba5-b7e8-f99c21968814
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

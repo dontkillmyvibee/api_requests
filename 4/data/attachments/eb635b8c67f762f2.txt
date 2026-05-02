@@ -1,0 +1,22 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:64 Check get courses response
+INFO     BASE_ASSERTIONS:base.py:87 Check that length of "courses" equals to 1
+INFO     COURSES_ASSERTIONS:courses.py:47 Check course
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to e7014f9f-bff4-4b65-8690-6ef6570ad0f0
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to During little woman skin industry soon.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 78
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 28
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Style skin least professional. What list day exactly century participant. Partner expect guess operation.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 10 weeks
+INFO     FILES_ASSERTIONS:files.py:47 Check file
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 7dc6d104-53a7-48e9-b3e7-3f4082b792a5
+INFO     BASE_ASSERTIONS:base.py:45 Check that "url" equals to http://localhost:8000/static/tests/a8e7723b-4da5-4b80-b43d-dd432118f36e.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "filename" equals to a8e7723b-4da5-4b80-b43d-dd432118f36e.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "directory" equals to tests
+INFO     USER_ASSERTIONS:users.py:43 Check user
+INFO     BASE_ASSERTIONS:base.py:45 Check that "email" equals to pennyjohnson@example.com
+INFO     BASE_ASSERTIONS:base.py:45 Check that "last_name" equals to Hodges
+INFO     BASE_ASSERTIONS:base.py:45 Check that "first_name" equals to Philip
+INFO     BASE_ASSERTIONS:base.py:45 Check that "middle_name" equals to Meagan
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to b3069065-26be-4254-8c98-b8db5380ba6b
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

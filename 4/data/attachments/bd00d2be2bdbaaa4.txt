@@ -1,0 +1,9 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     USER_ASSERTIONS:users.py:66 Check get user response
+INFO     USER_ASSERTIONS:users.py:43 Check user
+INFO     BASE_ASSERTIONS:base.py:45 Check that "email" equals to bhorn@example.org
+INFO     BASE_ASSERTIONS:base.py:45 Check that "last_name" equals to Smith
+INFO     BASE_ASSERTIONS:base.py:45 Check that "first_name" equals to Amanda
+INFO     BASE_ASSERTIONS:base.py:45 Check that "middle_name" equals to Joshua
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to e7170717-55ad-43d2-b51e-ad6a940e56a2
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema
