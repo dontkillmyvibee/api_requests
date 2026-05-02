@@ -1,0 +1,11 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:88 Check create course response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Suggest member nor indeed every perhaps.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 65
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 12
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to East could keep. Almost ground participant impact smile.
+Expert lot court PM within. Moment member interesting realize market amount. In side stop those study break a.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 4 weeks
+INFO     BASE_ASSERTIONS:base.py:45 Check that "preview_file_id" equals to e2e1182f-d764-4c02-8a21-a8bdde4b04ad
+INFO     BASE_ASSERTIONS:base.py:45 Check that "created_by_user_id" equals to ea1281ca-8fd5-435a-b66d-4c4a4c1fd6eb
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

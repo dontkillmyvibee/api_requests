@@ -1,0 +1,6 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     AUTHENTICATION_ASSERTIONS:authentication.py:23 Check login response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "token_type" equals to bearer
+INFO     BASE_ASSERTIONS:base.py:66 Check that "access_token" is true
+INFO     BASE_ASSERTIONS:base.py:66 Check that "refresh_token" is true
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

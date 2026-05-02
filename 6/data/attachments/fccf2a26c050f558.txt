@@ -1,0 +1,13 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     EXERCISES_ASSERTIONS:exercises.py:76 Check get exercise response
+INFO     EXERCISES_ASSERTIONS:exercises.py:50 Check exercise
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to e598c0c1-8cf2-4b0d-864a-b3a34f25368a
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Sit create reflect fire mean specific rise.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to 7deb5929-b926-43b6-8989-96f89c5938cb
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 78
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 14
+INFO     BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 82
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Pay must business Congress. Newspaper whether lay player.
+Together drop program onto tough. Director they add special lawyer society information. Office he accept.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 8 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

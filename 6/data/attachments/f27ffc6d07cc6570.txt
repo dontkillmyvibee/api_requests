@@ -1,0 +1,22 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:64 Check get courses response
+INFO     BASE_ASSERTIONS:base.py:87 Check that length of "courses" equals to 1
+INFO     COURSES_ASSERTIONS:courses.py:47 Check course
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 3da04fbd-7aef-45b4-bd15-96b4175eb51f
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Perform everybody adult director government something can.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 84
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 30
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Use cause site benefit instead far during. Feel him popular your team say.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 7 weeks
+INFO     FILES_ASSERTIONS:files.py:47 Check file
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 5321150c-bdcc-4e12-91ca-b93d5cff4953
+INFO     BASE_ASSERTIONS:base.py:45 Check that "url" equals to http://localhost:8000/static/tests/4ca72c82-adda-453d-9885-6055846058c1.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "filename" equals to 4ca72c82-adda-453d-9885-6055846058c1.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "directory" equals to tests
+INFO     USER_ASSERTIONS:users.py:43 Check user
+INFO     BASE_ASSERTIONS:base.py:45 Check that "email" equals to kristenpreston@example.com
+INFO     BASE_ASSERTIONS:base.py:45 Check that "last_name" equals to Obrien
+INFO     BASE_ASSERTIONS:base.py:45 Check that "first_name" equals to Crystal
+INFO     BASE_ASSERTIONS:base.py:45 Check that "middle_name" equals to Pamela
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 29925846-042d-4362-acdc-4a10d35ff1e7
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

@@ -1,0 +1,14 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     EXERCISES_ASSERTIONS:exercises.py:136 Check get exercises response
+INFO     BASE_ASSERTIONS:base.py:87 Check that length of "exercises" equals to 1
+INFO     EXERCISES_ASSERTIONS:exercises.py:50 Check exercise
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 66803485-cabc-4188-873c-05899bdd85d4
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Operation money part.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to 8ebe8e35-0f77-444a-8ef2-0775b85b8fbe
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 85
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 11
+INFO     BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 12
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Form these wear church table. Stand night bed local. Side audience should task dog.
+Current nor behavior partner pay group whole. Close strategy knowledge find money than. Scene mean sure another.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 5 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema
