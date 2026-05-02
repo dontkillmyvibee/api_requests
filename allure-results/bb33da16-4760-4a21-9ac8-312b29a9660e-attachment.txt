@@ -1,8 +1,0 @@
-[32mINFO    [0m BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
-[32mINFO    [0m COURSES_ASSERTIONS:courses.py:27 Check update course response
-[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "title" equals to Situation society dream development.
-[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 100
-[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 2
-[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "description" equals to Alone final second practice pattern good hair. Ok close government send major white away institution. Since rate second modern avoid middle.
-[32mINFO    [0m BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 8 weeks
-[32mINFO    [0m SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema
