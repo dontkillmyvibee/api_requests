@@ -1,0 +1,14 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     EXERCISES_ASSERTIONS:exercises.py:136 Check get exercises response
+INFO     BASE_ASSERTIONS:base.py:87 Check that length of "exercises" equals to 1
+INFO     EXERCISES_ASSERTIONS:exercises.py:50 Check exercise
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to a0707cd3-f829-46d3-9450-0400d4230095
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Everybody affect very ten.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to a8389620-ddb3-45df-9a1e-b3b49428defb
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 70
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 28
+INFO     BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 15
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Rise she subject door commercial deep different. Republican miss fast environmental very. Night red when fund present apply.
+Type under particularly this. Politics both back his bring myself.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 3 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

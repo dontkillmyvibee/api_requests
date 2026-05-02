@@ -1,0 +1,13 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     EXERCISES_ASSERTIONS:exercises.py:76 Check get exercise response
+INFO     EXERCISES_ASSERTIONS:exercises.py:50 Check exercise
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to d972db79-f0af-430b-b24b-01dcf396ec55
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Trip consider check.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "course_id" equals to ca4423d1-19e4-4a3d-85f4-f0bbb9598475
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 71
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 7
+INFO     BASE_ASSERTIONS:base.py:45 Check that "order_index" equals to 49
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Probably challenge team. Door cold late between. Wall this option big management.
+Commercial development skin cover quite whose. Arrive tax into power.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 3 weeks
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

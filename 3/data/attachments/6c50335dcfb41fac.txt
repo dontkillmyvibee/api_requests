@@ -1,0 +1,11 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:88 Check create course response
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Be herself set author so card.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 50
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 20
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Common fly plant start budget very. Race box heavy under expect. Full society many coach.
+Film success must. I hit parent still painting after.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 9 weeks
+INFO     BASE_ASSERTIONS:base.py:45 Check that "preview_file_id" equals to fce088d3-bdd1-4b47-8ba5-d2c465f02fce
+INFO     BASE_ASSERTIONS:base.py:45 Check that "created_by_user_id" equals to 2d2babdd-155f-4954-9a58-a9f30b4c37f8
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

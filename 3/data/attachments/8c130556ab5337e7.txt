@@ -1,0 +1,11 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 422
+INFO     FILES_ASSERTIONS:files.py:95 Check create file with empty filename response
+INFO     ERRORS_ASSERTIONS:errors.py:45 Check validation error response
+INFO     BASE_ASSERTIONS:base.py:87 Check that length of "details" equals to 1
+INFO     ERRORS_ASSERTIONS:errors.py:21 Check validation error
+INFO     BASE_ASSERTIONS:base.py:45 Check that "type" equals to string_too_short
+INFO     BASE_ASSERTIONS:base.py:45 Check that "input" equals to 
+INFO     BASE_ASSERTIONS:base.py:45 Check that "context" equals to {'min_length': 1}
+INFO     BASE_ASSERTIONS:base.py:45 Check that "message" equals to String should have at least 1 character
+INFO     BASE_ASSERTIONS:base.py:45 Check that "location" equals to ['body', 'filename']
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

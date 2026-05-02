@@ -1,0 +1,8 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     FILES_ASSERTIONS:files.py:69 Check get file response
+INFO     FILES_ASSERTIONS:files.py:47 Check file
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 4df4338c-f6cc-44f5-959d-d81c438c6829
+INFO     BASE_ASSERTIONS:base.py:45 Check that "url" equals to http://localhost:8000/static/tests/e9ee656c-ee2b-487f-94d0-ac7d01cf46dd.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "filename" equals to e9ee656c-ee2b-487f-94d0-ac7d01cf46dd.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "directory" equals to tests
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema

@@ -1,0 +1,23 @@
+INFO     BASE_ASSERTIONS:base.py:23 Check that response status code equals to 200
+INFO     COURSES_ASSERTIONS:courses.py:64 Check get courses response
+INFO     BASE_ASSERTIONS:base.py:87 Check that length of "courses" equals to 1
+INFO     COURSES_ASSERTIONS:courses.py:47 Check course
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to d4f9e591-27cf-4d6f-bce3-7ed1cbe438bc
+INFO     BASE_ASSERTIONS:base.py:45 Check that "title" equals to Traditional list point high tend court million above.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "max_score" equals to 57
+INFO     BASE_ASSERTIONS:base.py:45 Check that "min_score" equals to 1
+INFO     BASE_ASSERTIONS:base.py:45 Check that "description" equals to Begin guy reveal maintain piece wrong. Find us according ever. Light ever large put attorney.
+Treat particular television range city stop unit. Call budget wind adult.
+INFO     BASE_ASSERTIONS:base.py:45 Check that "estimated_time" equals to 8 weeks
+INFO     FILES_ASSERTIONS:files.py:47 Check file
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to f495233d-6c8e-4eed-bd7a-45aa67d7115a
+INFO     BASE_ASSERTIONS:base.py:45 Check that "url" equals to http://localhost:8000/static/tests/639a261c-e9bc-4547-8c19-543144da67ea.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "filename" equals to 639a261c-e9bc-4547-8c19-543144da67ea.png
+INFO     BASE_ASSERTIONS:base.py:45 Check that "directory" equals to tests
+INFO     USER_ASSERTIONS:users.py:43 Check user
+INFO     BASE_ASSERTIONS:base.py:45 Check that "email" equals to gscott@example.com
+INFO     BASE_ASSERTIONS:base.py:45 Check that "last_name" equals to Moore
+INFO     BASE_ASSERTIONS:base.py:45 Check that "first_name" equals to Heather
+INFO     BASE_ASSERTIONS:base.py:45 Check that "middle_name" equals to Jennifer
+INFO     BASE_ASSERTIONS:base.py:45 Check that "id" equals to 8d01717a-de05-4975-838a-785738b484cc
+INFO     SCHEMA_ASSERTIONS:schema.py:24 Validating JSON schema
